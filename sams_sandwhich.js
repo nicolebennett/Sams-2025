@@ -1,6 +1,7 @@
 alert("js is attached");
 
 function calculateOrder(){
+    //adding a 2nd test alert
     //adding another line of code
       //checking the terms and conditions box has been checked
     alert("Calculate order function");
